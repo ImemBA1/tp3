@@ -1,0 +1,15 @@
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (1, 87379, 'Copo', 'Geneva', 79, 'gcopo0@springer.com', '(342) 8003314', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (2, 72848, 'Bebb', 'Olivia', 36, 'obebb1@slate.com', '(956) 3026171', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (3, 6202, 'Baignard', 'Tandy', 17, 'tbaignard2@addtoany.com', '(694) 7855099', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (4, 89982, 'Lethby', 'Knox', 74, 'klethby3@myspace.com', '(797) 5762598', true);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (5, 85936, 'Sugge', 'Jenifer', 10, 'jsugge4@qq.com', '(103) 5742316', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (6, 36990, 'Olensby', 'Olly', 28, 'oolensby5@ning.com', '(510) 1037140', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (7, 57721, 'Prater', 'Ingeborg', 78, 'iprater6@gmpg.org', '(724) 9963125', true);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (8, 26807, 'Finnemore', 'Margy', 70, 'mfinnemore7@stumbleupon.com', '(348) 4291693', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (9, 91444, 'Blinman', 'Marjie', 39, 'mblinman8@about.com', '(127) 1292333', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (10, 91007, 'Carrett', 'Rozelle', 84, 'rcarrett9@nature.com', '(730) 1175135', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (11, 90288, 'Danett', 'Gearard', 53, 'gdanetta@newsvine.com', '(872) 6345920', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (12, 751, 'Lichtfoth', 'Nikolia', 70, 'nlichtfothb@wix.com', '(975) 1298867', false);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (13, 69749, 'Hasson', 'Marcelline', 69, 'mhassonc@barnesandnoble.com', '(301) 6184211', true);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (14, 72058, 'Cavalier', 'Cleo', 74, 'ccavalierd@tripadvisor.com', '(967) 8729683', true);
+insert into CITOYEN (id, nasm, nom, prenom, age, email, telephone, valide_Permis) values (15, 35755, 'Iannitti', 'Griffith', 86, 'giannittie@technorati.com', '(962) 1605740', true);
